@@ -51,7 +51,7 @@ Olivia Martinez : 96
 Ethan Walker
 Olivia Martinez
 ...
-
+```
 ---
 
 ## Requirements Checked
@@ -81,7 +81,7 @@ Grade-Analyzer/
 │
 ├── grade_analyzer.py
 └── README.md
-
+```
 ---
 
 ## Future Improvements
