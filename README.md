@@ -31,6 +31,7 @@ This project was created while learning Python fundamentals and practicing loops
 ---
 
 ## Example
+```text
 ---- TEST RESULTS ----
 
 Ethan Walker : 98
@@ -75,6 +76,7 @@ A student is considered passing if they meet the following:
 ---
 
 ## File Structure
+```text
 Grade-Analyzer/
 │
 ├── grade_analyzer.py
